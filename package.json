@@ -1,0 +1,26 @@
+{
+  "name": "logdriver",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "logdriver-io",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modonnell/logdriver-io.git"
+  },
+  "keywords": [
+    "logging",
+    "central"
+  ],
+  "author": "Matt O'Donnell",
+  "license": "apache-2",
+  "bugs": {
+    "url": "https://github.com/modonnell/logdriver-io/issues"
+  },
+  "homepage": "https://github.com/modonnell/logdriver-io",
+  "dependencies": {
+    "nconf": "~0.6.9"
+  }
+}
