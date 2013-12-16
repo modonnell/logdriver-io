@@ -25,3 +25,4 @@ process.on('SIGINT', function() {
   process.exit(1);
 });
 
+worker.start();

@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/modonnell/logdriver-io",
   "dependencies": {
-    "nconf": "~0.6.9"
+    "nconf": "~0.6.9",
+    "redis": "~0.9.x"
   }
 }
